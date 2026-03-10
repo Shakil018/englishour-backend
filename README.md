@@ -5,7 +5,7 @@
 🎥 **YouTube Demo:** [Watch the demo here](https://youtu.be/122Pwv6Ht6I)
 
 
-
+![Englishour Demo](./images/englishour.png)
 
 
 The platform consists of two main components:
